@@ -1,0 +1,10 @@
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\bin\Debug\MBSoftwareTestAutomationEngineerHW.exe.config
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\bin\Debug\MBSoftwareTestAutomationEngineerHW.exe
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\bin\Debug\MBSoftwareTestAutomationEngineerHW.pdb
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\bin\Debug\WebDriver.dll
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\bin\Debug\WebDriver.xml
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\obj\Debug\MBSoftwareTestAutomationEngineerHW.csprojResolveAssemblyReference.cache
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\obj\Debug\MBSoftwareTestAutomationEngineerHW.exe
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\obj\Debug\MBSoftwareTestAutomationEngineerHW.pdb
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\bin\Debug\WebDriver.Support.dll
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\MBSoftwareTestAutomationEngineerHW\MBSoftwareTestAutomationEngineerHW\bin\Debug\WebDriver.Support.xml
