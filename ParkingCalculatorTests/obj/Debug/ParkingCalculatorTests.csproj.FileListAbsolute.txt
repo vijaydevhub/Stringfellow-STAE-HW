@@ -1,0 +1,11 @@
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\obj\Debug\ParkingCalculatorTests.csprojResolveAssemblyReference.cache
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\ParkingCalculatorTests.dll
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\ParkingCalculatorTests.pdb
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\ParkingCalculatorTestFramework.dll
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\WebDriver.dll
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\WebDriver.Support.dll
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\ParkingCalculatorTestFramework.pdb
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\WebDriver.xml
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\bin\Debug\WebDriver.Support.xml
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\obj\Debug\ParkingCalculatorTests.dll
+c:\users\jacob.stringfellow\documents\visual studio 2013\Projects\ParkingCalculatorTestFramework\ParkingCalculatorTests\obj\Debug\ParkingCalculatorTests.pdb
